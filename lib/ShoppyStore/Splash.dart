@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/alertdilog.dart/Datapasssing%20get%20api/Datapassing.dart';
+import 'package:flutter_application_1/ShoppyStore/Home.dart';
+
+
 class SplashScreen1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
